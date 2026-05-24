@@ -37,5 +37,3 @@ The model helped identify players whose market value differed from their project
 ## Future Improvements
 - Add more historical seasons of data
 - Include injury reports and player usage trends
-- Test additional machine learning models
-- Build an interactive dashboard for trade recommendations
